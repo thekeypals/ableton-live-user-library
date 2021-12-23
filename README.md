@@ -4,7 +4,7 @@ This user library has been created by the collective and is in the early stages 
 
 ## Instillation
 
-Download the latest release [here](https://github.com/thekeypals/ableton-live-user-library/releases/tag/v1.0).
+Download the latest release [here](https://github.com/thekeypals/ableton-live-user-library/releases/).
 
 After downloading the file:
 
