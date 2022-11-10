@@ -41,10 +41,7 @@ The MIDI chords in '03 MIDI Clips' is useful and '06 User Presets' contains the 
   * Pitched
 * 03 MIDI Clips
   * Chords
-    * All Chords
-    * Chords in Key
-    * Genres
-    * Inversions
+  * Chord Progressions
   * Drum Patterns
     * Genres
 * 04 Effects
@@ -71,7 +68,7 @@ The MIDI chords in '03 MIDI Clips' is useful and '06 User Presets' contains the 
   *  Analyser Rack
   *  Compressor Rack
   *  EQ Rack
-  *  Mastering Rack
+  *  Master Bus Rack
   *  Reverb Rack
   *  Vocal Rack
 
