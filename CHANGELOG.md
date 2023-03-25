@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - No idea what to add, suggestions welcome!
 
+## [1.1.0] - 2023-03-25
+
+### Changed
+
+- Master Buss Rack now has an additional limiter
+
+### Fixed
+
+- The first filter on the EQ Eight was set to high shelf instead of low cut by mistake, have fixed
+
 ## [1.0.0] - 2022-11-10
 
 ### Changed
