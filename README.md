@@ -10,7 +10,7 @@ After downloading the file:
 
 1. Double-click the download zip file to unpack or open it.
 2. Follow the instructions in "install-mac.txt" or "install-win", depending on what operating system you're using.
-3. Add the folder named 'v1.0' to your existing User Library, for more information on locating your User Library within Ableton Live [read this article](https://help.ableton.com/hc/en-us/articles/209774085-The-User-Library).
+3. Add the folder named 'v1.1.0' to your existing User Library, for more information on locating your User Library within Ableton Live [read this article](https://help.ableton.com/hc/en-us/articles/209774085-The-User-Library).
 
 ## Usage
 
