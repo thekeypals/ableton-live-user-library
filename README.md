@@ -65,11 +65,19 @@ The MIDI chords in '03 MIDI Clips' is useful and '06 User Presets' contains the 
     * Randomisers
 * 05 Grooves
 * 06 User Presets
-  *  Analyser Rack
+  *  Automation
+  *  Backing Vocals Sidechain
   *  Compressor Rack
+  *  Drum Buss
   *  EQ Rack
-  *  Master Bus Rack
-  *  Reverb Rack
+  *  Gain Input
+  *  Gain Output
+  *  Glue Compressor
+  *  Kick Sidechain
+  *  Lead Vocals Sidechain
+  *  Overdrive
+  *  Spectrum
+  *  Tuner
   *  Vocal Rack
 
 ### Collections
